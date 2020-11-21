@@ -30,3 +30,9 @@ h4{
 iframe{
     border-radius: 5px;
 }
+h1,h3,p{
+    color: #e8473c;
+}
+li,a{
+    color:gray;
+}
